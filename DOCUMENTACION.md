@@ -1,7 +1,8 @@
-UNACH Ciencia de DAtos 
-# Actividad Autonima 3 
+UNACH Ciencia de Datos 
+# Actividad Autonoma 3 
 Herramientas y Metodologías en Ciencia de Datos
-Chrsitian Andres Carchi
+Nombre: Chrsitian Andres Carchi
+
 A continuación se describen los comandos clave utilizados:
 * `git clone https://github.com/khrisac777/preprocesamiento-ciencia-datos.git`: Para descargar el repositorio remoto de GitHub a la máquina local.
 touch .gitignore; para agregar el archivo .gitignore
