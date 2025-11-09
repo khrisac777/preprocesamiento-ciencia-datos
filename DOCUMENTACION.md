@@ -24,7 +24,7 @@ En un proyecto de Ciencia de Datos, se podría usar para:
 **Validar Calidad del Código:** Ejecutar herramientas como *linters* (Flake8) o *formatters* (Black) para mantener un estilo de código consistente.
 **Entrenamiento de Modelos (CD):** En flujos más avanzados, un merge a `main` podría disparar un *workflow* que re-entrene un modelo de Machine Learning y lo despliegue.
 
-## 4. Evidencia y Capturas de Pantalla [cite: 83]
+## 4. Evidencia y Capturas de Pantalla
 **Commit Inicial y Push a `main`**
 
 ![alt text](image.png)
