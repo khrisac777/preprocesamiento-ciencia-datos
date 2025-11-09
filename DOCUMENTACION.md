@@ -1,7 +1,7 @@
-# UNACH Ciencia de DAtos 
+UNACH Ciencia de DAtos 
 # Actividad Autonima 3 
-# Herramientas y Metodologías en Ciencia de Datos
-# Chrsitian Andres Carchi
+Herramientas y Metodologías en Ciencia de Datos
+Chrsitian Andres Carchi
 A continuación se describen los comandos clave utilizados:
 * `git clone https://github.com/khrisac777/preprocesamiento-ciencia-datos.git`: Para descargar el repositorio remoto de GitHub a la máquina local.
 touch .gitignore; para agregar el archivo .gitignore
@@ -25,11 +25,14 @@ En un proyecto de Ciencia de Datos, se podría usar para:
 
 ## 4. Evidencia y Capturas de Pantalla [cite: 83]
 **Commit Inicial y Push a `main`**
+
 ![alt text](image.png)
 
 **Captura 2: Push de la Rama `feature-preprocesamiento`**
+
 ![alt text](image-1.png)
 
 **Captura 3: Pull Request Fusionado en GitHub**
+
 ![alt text](<Screenshot 2025-11-09 at 4.46.41 PM.png>)
 ![alt text](<Screenshot 2025-11-09 at 4.46.53 PM.png>)
